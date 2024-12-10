@@ -1,0 +1,326 @@
+[
+    {
+        "RawTweet":"['What\u2019s awkward is that I legit need toilet paper bc I\u2019m straight up out but now bc people are stockpiling im actually paranoid to buy it. We live in a time where normal people can\u2019t buy toilet paper bc stupid people have made it awkward! #coronavirus']",
+        "Month":"March",
+        "Dimension 1":-26.635721,
+        "Dimension 2":-14.823018,
+        "Sentiment":-0.192255892,
+        "Subjectivity":0.516666667,
+        "idx":1
+    },
+    {
+        "RawTweet":"@joydhughes Not sure that\u2019s the goal; it\u2019s fairly necessary to function in society, we just need to wrench it away from the drivers seat sometimes \ud83d\ude09",
+        "Month":"April",
+        "Dimension 1":1.3111906,
+        "Dimension 2":-34.680424,
+        "Sentiment":-0.125,
+        "Subjectivity":0.944444444,
+        "idx":2
+    },
+    {
+        "RawTweet":"['#News1st #NewsNight  #Repost #COVID\u30fc19 #COVID19 #covid\u30fc19uk #COVID19Nigeria #COVID #BREAKING #BreakingNews #CoronaVirusSA #CoronavirusOutbreak #CoronaVirusUpdates #CoronaVirusGhana \\n\\nIn Burkina Faso, COVID-19 fight complicated by war, displacement\\n\\nhttps:\/\/t.co\/u375VEGtz5', '#News1st #NewsNight  #Repost #COVID\u30fc19 #COVID19 #covid\u30fc19uk #COVID19Nigeria #COVID #BREAKING #BreakingNews #CoronaVirusSA #CoronavirusOutbreak #CoronaVirusUpdates #CoronaVirusGhana \\n\\nIn Burkina Faso, COVID-19 fight complicated by war, displacement\\n\\nhttps:\/\/t.co\/u375VEGtz5']",
+        "Month":"March",
+        "Dimension 1":-16.909525,
+        "Dimension 2":-5.4515333,
+        "Sentiment":-0.5,
+        "Subjectivity":1.0,
+        "idx":3
+    },
+    {
+        "RawTweet":"b'.@WorcsChildren (&amp; others) want to find out about experiences of #mentalhealth &amp; anxiety in children &amp; young people\\xe2\\x80\\xa6 https:\/\/t.co\/ncquG2F5OC'",
+        "Month":"May",
+        "Dimension 1":11.061246,
+        "Dimension 2":-22.017664,
+        "Sentiment":0.1,
+        "Subjectivity":0.4,
+        "idx":4
+    },
+    {
+        "RawTweet":"b'RT @tonycperegrin: These men and women are so very brave. Let them speak.  \\xe2\\x80\\x9cThough doing so comes at a very real risk, doctors said they\\xe2\\x80\\x99ll\\xe2\\x80\\xa6'",
+        "Month":"April",
+        "Dimension 1":24.44487,
+        "Dimension 2":-23.18914,
+        "Sentiment":0.63,
+        "Subjectivity":0.695,
+        "idx":5
+    },
+    {
+        "RawTweet":"b'RT @medpie1: My dear friend @DrTsion took this snapshot of me last weekend working in the ED where 90% of the patients were confirmed or su\\xe2\\x80\\xa6'",
+        "Month":"March",
+        "Dimension 1":-9.3844385,
+        "Dimension 2":40.02142,
+        "Sentiment":0.2,
+        "Subjectivity":0.533333333,
+        "idx":6
+    },
+    {
+        "RawTweet":"['COVID-19 and #dravetsyndrome? NO PANIC\u270b\\n\\nWe have written (in Spanish \ud83c\uddea\ud83c\uddf8) some advice for Dravet families on how to prevent and\/or handle a putative infection with #COVID19 . Have a look! \ud83d\udc47\\n\\nhttps:\/\/t.co\/21oIOX62WX https:\/\/t.co\/4x4IphAzFc']",
+        "Month":"March",
+        "Dimension 1":1.2601945,
+        "Dimension 2":-1.6995733,
+        "Sentiment":-0.041666667,
+        "Subjectivity":0.2,
+        "idx":7
+    },
+    {
+        "RawTweet":"b'Has #COVID19 brought a new appreciation of what science and scientists contribute? Great (and short) interview with\\xe2\\x80\\xa6 https:\/\/t.co\/xNb9lmjokK'",
+        "Month":"May",
+        "Dimension 1":37.558372,
+        "Dimension 2":-6.846301,
+        "Sentiment":0.312121212,
+        "Subjectivity":0.501515152,
+        "idx":8
+    },
+    {
+        "RawTweet":"b'The confirmed cases of #COVID19 pandemic is increasing everyday by day, we should all try to help ourselves before\\xe2\\x80\\xa6 https:\/\/t.co\/qcfeq0zJGP'",
+        "Month":"April",
+        "Dimension 1":9.290137,
+        "Dimension 2":28.795107,
+        "Sentiment":0.1,
+        "Subjectivity":0.8,
+        "idx":9
+    },
+    {
+        "RawTweet":"b'RT @ScottGottliebMD: More cases in U.S. today. Numbers will grow quickly as screening gets in place and existing cases (numbering probably\\xe2\\x80\\xa6'",
+        "Month":"March",
+        "Dimension 1":9.813964,
+        "Dimension 2":28.544298,
+        "Sentiment":0.416666667,
+        "Subjectivity":0.5,
+        "idx":10
+    },
+    {
+        "RawTweet":"b'Hi everyone!\\n\\nJust an update, we are still able to take enquiries and make tentative #photoshoot bookings for when\\xe2\\x80\\xa6 https:\/\/t.co\/EMemzOBLWX'",
+        "Month":"April",
+        "Dimension 1":38.853413,
+        "Dimension 2":6.212484,
+        "Sentiment":0.5,
+        "Subjectivity":0.625,
+        "idx":11
+    },
+    {
+        "RawTweet":"It was a pleasure hosting @PennNursingDean Antonia Villarruel yesterday for a discussion of how we can #advanceequity to end health disparities. For those who missed the virtual event, the video is available here: https:\/\/t.co\/4WcEmPOIUK @BUSPH @PennNursing",
+        "Month":"April",
+        "Dimension 1":33.668293,
+        "Dimension 2":-0.17218319,
+        "Sentiment":0.4,
+        "Subjectivity":0.4,
+        "idx":12
+    },
+    {
+        "RawTweet":"[\"Apparently in an 'end of the world' survival situation,the other half's plan to keep me alive is to carry me round in a backpack and arm me with a pointy stick like an ewok..and if that's not love then I don't know what is. #coronavirus\", \"Apparently in an 'end of the world' survival situation,the other half's plan to keep me alive is to carry me round in a backpack and arm me with a pointy stick like an ewok..and if that's not love then I don't know what is. #coronavirus\"]",
+        "Month":"March",
+        "Dimension 1":-10.362031,
+        "Dimension 2":-27.787067,
+        "Sentiment":-0.098611111,
+        "Subjectivity":0.381944444,
+        "idx":13
+    },
+    {
+        "RawTweet":"@NeeleyEunice Sorry about your harassment situation. That is unfortunate and intolerable, but what you\u2019re doing in my messages is harrassment on another level\/category. Please do not @ me again. Thank you.",
+        "Month":"April",
+        "Dimension 1":-23.795874,
+        "Dimension 2":-19.699259,
+        "Sentiment":-0.5,
+        "Subjectivity":1.0,
+        "idx":14
+    },
+    {
+        "RawTweet":"['Next Monday: join @MariaNoelSJ and @TECollab for an online panel discussion about how #COVID19 has impacted working people, what resources are available, and how we can support our neighbors while sheltering in place: https:\/\/t.co\/xx2FAz3FJY', 'Next Monday: join @MariaNoelSJ and @TECollab for an online panel discussion about how #COVID19 has impacted working people, what resources are available, and how we can support our neighbors while sheltering in place: https:\/\/t.co\/xx2FAz3FJY']",
+        "Month":"March",
+        "Dimension 1":31.010462,
+        "Dimension 2":20.05136,
+        "Sentiment":0.2,
+        "Subjectivity":0.2,
+        "idx":15
+    },
+    {
+        "RawTweet":"[\"Even Bill Gates Said In 2015, The World Isn't Ready For A Global Epidemic (The #Coronavirus, #COVID_19)!\\n\\nhttps:\/\/t.co\/hjViaZxPAP\\n\\nEven With The Continued Spread of This Virus, There Are Still Riots &amp; Upheaval!\\n\\nThere Are Still Wildfires, Earthquakes &amp; Locust Swarms!\\n\\nSeek Jesus!\"]",
+        "Month":"March",
+        "Dimension 1":-24.229877,
+        "Dimension 2":-0.85260457,
+        "Sentiment":0.1,
+        "Subjectivity":0.25,
+        "idx":16
+    },
+    {
+        "RawTweet":"b'RT @tomzellerjr: \"Outbreaks have a way of revealing a society\\xe2\\x80\\x99s values. Are these really going to be ours?\" via @devisridhar and @undarkmag\\xe2\\x80\\xa6'",
+        "Month":"March",
+        "Dimension 1":10.3315525,
+        "Dimension 2":-14.068911,
+        "Sentiment":0.2,
+        "Subjectivity":0.2,
+        "idx":17
+    },
+    {
+        "RawTweet":"b'RT @R_H_Ebright: \"The German government just placed an order for 10,000 mechanical ventilators. What\\xe2\\x80\\x99s the US government doing about a pote\\xe2\\x80\\xa6'",
+        "Month":"March",
+        "Dimension 1":-8.640268,
+        "Dimension 2":35.04982,
+        "Sentiment":0.0,
+        "Subjectivity":0.0,
+        "idx":18
+    },
+    {
+        "RawTweet":"b'One billion people could become infected with coronavirus worldwide, IRC report claims..... #Coronavirus\\xe2\\x80\\xa6 https:\/\/t.co\/tQ6BFy5vi5'",
+        "Month":"April",
+        "Dimension 1":-13.243155,
+        "Dimension 2":37.402287,
+        "Sentiment":0.0,
+        "Subjectivity":0.0,
+        "idx":19
+    },
+    {
+        "RawTweet":"['I never ever thought that having agoraphobia would ever be a bonus, but it seems that this time self-isolation is appropriate on many levels. #coronavirus #COVID\u30fc19 #hopeidontrunoutofloopaper']",
+        "Month":"March",
+        "Dimension 1":-39.330902,
+        "Dimension 2":-20.308334,
+        "Sentiment":0.5,
+        "Subjectivity":0.5,
+        "idx":20
+    },
+    {
+        "RawTweet":"\"In Chicago, black Americans account for 68 % of city\u2019s 118 deaths &amp; 52% of...#COVID19 cases, despite making up just 30 %..of population...they are dying at a rate nearly 6x higher than that of white Chicagoans\" https:\/\/t.co\/NTNNWDl3YD",
+        "Month":"April",
+        "Dimension 1":-21.46032,
+        "Dimension 2":39.79696,
+        "Sentiment":0.027777778,
+        "Subjectivity":0.311111111,
+        "idx":21
+    },
+    {
+        "RawTweet":"1st time at @UCSFHospitals we have near real-time data fueling a campus-wide dashboard! Response to #COVID19 includes forming DAV (data\/analyt\/vis) collab, pooling skills across the org, transforming how we work. \ud83e\udd84dash\/mart dev by Rhiannon Croci, J Yim. #healthinformatics https:\/\/t.co\/JOw12oYmnf",
+        "Month":"April",
+        "Dimension 1":30.278414,
+        "Dimension 2":0.5838747,
+        "Sentiment":0.125,
+        "Subjectivity":0.4,
+        "idx":22
+    },
+    {
+        "RawTweet":"['Jack Ma, what a hero. Supporting African countries as well as Asia and South America with testing kits, facial masks and protective suits. The world need more initiatives like this. #corona #COVID19  https:\/\/t.co\/2PjorPKZTa']",
+        "Month":"March",
+        "Dimension 1":32.09564,
+        "Dimension 2":-14.554201,
+        "Sentiment":0.1875,
+        "Subjectivity":0.1875,
+        "idx":23
+    },
+    {
+        "RawTweet":"['Trump Berates Reporter, Calls Her \u2018Threatening\u2019 For Asking About Comments He Made on #Coronavirus https:\/\/t.co\/sTnWyKDXD8 https:\/\/t.co\/KZ3HvMjKah']",
+        "Month":"March",
+        "Dimension 1":-22.169598,
+        "Dimension 2":-3.0830593,
+        "Sentiment":0.0,
+        "Subjectivity":0.0,
+        "idx":24
+    },
+    {
+        "RawTweet":"b'The Federal Reserve announced its Paycheck Protection Program Liquidity Facility is fully operational and available\\xe2\\x80\\xa6 https:\/\/t.co\/Xub1R70L3y'",
+        "Month":"April",
+        "Dimension 1":44.66936,
+        "Dimension 2":9.304743,
+        "Sentiment":0.0,
+        "Subjectivity":0.0,
+        "idx":25
+    },
+    {
+        "RawTweet":"['The Indian practice of Namaskar has been promoted even by foreign governments as a way to avoid #CoronaVirus infection. There is a spiritual significance as well to this Namaskar.  https:\/\/t.co\/J9PkF9QYFi  #StayInTurnInward']",
+        "Month":"March",
+        "Dimension 1":30.54157,
+        "Dimension 2":-22.730368,
+        "Sentiment":-0.0625,
+        "Subjectivity":0.129166667,
+        "idx":26
+    },
+    {
+        "RawTweet":"b'How is COVID- 19 affecting the Tech industry? what implications does it have on the supply chain? Join Tech San Die\\xe2\\x80\\xa6 https:\/\/t.co\/lvUbpI4bUS'",
+        "Month":"May",
+        "Dimension 1":3.8520603,
+        "Dimension 2":-10.531499,
+        "Sentiment":0.0,
+        "Subjectivity":0.0,
+        "idx":27
+    },
+    {
+        "RawTweet":"['The biggest problem we have right now is a government that does not want to disclose information and a public that is dismissive of the situation #coronaviruskenya #COVID19']",
+        "Month":"March",
+        "Dimension 1":-28.879839,
+        "Dimension 2":-15.73091,
+        "Sentiment":0.142857143,
+        "Subjectivity":0.301190476,
+        "idx":28
+    },
+    {
+        "RawTweet":"['So, we have given up our rights as Americans, and began to pay homage with blood, sweat and tears to this new god .....................are we a third world nation yet? #CoronaLockdown #COVID19 #CoronavirusOutbreak #NancyChokesWhilePeopleGoBroke https:\/\/t.co\/lda4eB5VCx']",
+        "Month":"March",
+        "Dimension 1":-27.88342,
+        "Dimension 2":-2.6335363,
+        "Sentiment":0.068181818,
+        "Subjectivity":0.227272727,
+        "idx":29
+    },
+    {
+        "RawTweet":"Thank you @NCDCgov &amp; the Government of #Nigeria for the swift &amp; transparent way you have shared the #COVID19 sequence from the country's first case. This a true act of solidarity and an important step in stopping the #coronavirus from spreading further. \r\nhttps:\/\/t.co\/6fv15oMDTm",
+        "Month":"March",
+        "Dimension 1":31.525785,
+        "Dimension 2":-21.609732,
+        "Sentiment":0.25,
+        "Subjectivity":0.620833333,
+        "idx":30
+    },
+    {
+        "RawTweet":"[\"You lose in the game, you have to stay at home, you can't watch your favourite channel on television because of you parents \ud83d\ude20\\n\\n\ud83d\ude41\ud83e\udd14\ud83d\ude03 You still can listen to the Mark Tuan songs! \ud83d\udc4d\\n\\n\ud83d\ude12\ud83d\ude12I broke my headphones \ud83c\udfa7\\n\\nUmm okay \ud83d\ude36\\n#COVID19 #StayAtHome\"]",
+        "Month":"March",
+        "Dimension 1":-42.16369,
+        "Dimension 2":0.07989783,
+        "Sentiment":0.0,
+        "Subjectivity":0.45,
+        "idx":31
+    },
+    {
+        "RawTweet":"['Virus virus \ud83e\udda0 everywhere\ud83d\ude40!\\n\\nDon\u2019t panic. Just swipe for some simple tips to keep safe from the #coronavirus \\n\\nP\/S washing your hands without soap \ud83e\uddfc\ud83e\uddf4 , for less than 20 secs doesn\u2019t count. \\n\\n#washyourhands #hygiene\u2026 https:\/\/t.co\/ek4otlGOFO']",
+        "Month":"March",
+        "Dimension 1":1.2338622,
+        "Dimension 2":-13.8655405,
+        "Sentiment":0.111111111,
+        "Subjectivity":0.307936508,
+        "idx":32
+    },
+    {
+        "RawTweet":"b'RT @amcafee: Worth reading RIGHT NOW: @CaitlinPacific on \\nCancer and COVID.\\nThe life-extending power of science and the life-shortening ter\\xe2\\x80\\xa6'",
+        "Month":"May",
+        "Dimension 1":37.347607,
+        "Dimension 2":-6.7458806,
+        "Sentiment":0.292857143,
+        "Subjectivity":0.317857143,
+        "idx":33
+    },
+    {
+        "RawTweet":"['Okay ima just go ahead and say it. This is so fun, life was just the same old cycle, now there\u2019s a pandemic and people are all in the same boat. I mean it\u2019s no zombie apocalypse but you can\u2019t have everything in your lifetime\ud83d\ude02\\n#pandemic #coronavirus #apocalypse2020 #Australia']",
+        "Month":"March",
+        "Dimension 1":-1.3392717,
+        "Dimension 2":-12.684178,
+        "Sentiment":0.097916667,
+        "Subjectivity":0.30625,
+        "idx":34
+    },
+    {
+        "RawTweet":"b\"RT @PaulSaxMD: If you're in ID right now, you know that life is ... kind of nutty. Tried to outline a bit what it's like. \\nWhat Does (And D\\xe2\\x80\\xa6\"",
+        "Month":"March",
+        "Dimension 1":2.3368351,
+        "Dimension 2":-31.089077,
+        "Sentiment":0.442857143,
+        "Subjectivity":0.717857143,
+        "idx":35
+    },
+    {
+        "RawTweet":"['Sad about Walt Disney World Closing due to the Coronavirus? Check Out This Planning Guide from the 25th Anniversary Celebration\\n\\n#Disney #WDW #DisneyWorld #Coronavirus #SocialDistance #CoronavirusPandemic #DisneyParks\\n\\nhttps:\/\/t.co\/2bVgs3Ny7d', 'Sad about Walt Disney World Closing due to the Coronavirus? Check Out This Planning Guide from the 25th Anniversary Celebration\\n\\n#Disney #WDW #DisneyWorld #Coronavirus #SocialDistance #CoronavirusPandemic #DisneyParks\\n\\nhttps:\/\/t.co\/2bVgs3Ny7d']",
+        "Month":"March",
+        "Dimension 1":-32.771797,
+        "Dimension 2":6.711647,
+        "Sentiment":-0.3125,
+        "Subjectivity":0.6875,
+        "idx":36
+    }
+]
